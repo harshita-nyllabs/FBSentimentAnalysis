@@ -1,0 +1,990 @@
+{
+    "data": [
+        {
+            "id": "113373749451_10151058528669452",
+            "status_type": "added_photos",
+            "message": "Did you know that July was designated Park & Recreation Month in 1985? This year, the National Recreation and Park Association is encouraging Americans to get outside and “get wild” about our parks. \r\n\r\nHere's a picture of Madison Square Park, right outside our office in NYC! Where is your favorite park?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-19T14:13:48+0000"
+        },
+        {
+            "id": "113373749451_10151057672054452",
+            "status_type": "wall_post",
+            "message": "I love New York Life, I am new Agency, They have good trainning program which is 3 years long. Today is my first day with best company in World",
+            "from": {
+                "name": "Cheng Love Zhong",
+                "id": "963709177502"
+            },
+            "created_time": "2012-07-19T02:58:23+0000"
+        },
+        {
+            "id": "113373749451_10151057345714452",
+            "status_type": "wall_post",
+            "message": "I am from an insurance family.  I grew up tagging along with my dad when he'd make house calls for NYL.  As an adult, I work in the insurance industry myself.  I learned many things from dad, the most important being: customer service.  How I wish I could continue with this note and tell you how happy I am with yours.  On July 10th, I called in to surrender a policy.  The woman who listened to and assisted me was a professional.  That same morning I had the paperwork faxed to me, filled in/signed and returned with a very good promise of quick turnaround (do not conserve) as I am in an urgent situation.  I called in days later to find it had not been processed yet, but promised the check would go out in the mail on the 17th.  I called again today and was unhappily surprised that the check would not even be mailed until July 31st.  The person who took my call today sent an \"urgent email\" to the conservation team to hurry my business along.  When I asked about a turnaround time, she could only suggest I call back on Friday.  I am not a happy customer and, the urgency is now a few days hotter.",
+            "from": {
+                "name": "Genny Pelletier",
+                "id": "10202879429969925"
+            },
+            "created_time": "2012-07-18T23:02:52+0000"
+        },
+        {
+            "id": "113373749451_10151056364499452",
+            "status_type": "mobile_status_update",
+            "from": {
+                "name": "Ted E. Bear Hollow",
+                "id": "54652442565"
+            },
+            "created_time": "2012-07-18T14:07:20+0000"
+        },
+        {
+            "id": "113373749451_10151056352989452",
+            "status_type": "published_story",
+            "message": "Do you know if you have enough money saved for an emergency? Conventional wisdom states people should have enough money socked away for at least six months worth of expenses. It might be time to take stock of your finances. Our calculators can help! \n\nTell us, what are some of your favorite money-saving tips?\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-18T14:00:13+0000"
+        },
+        {
+            "id": "113373749451_10151054220144452",
+            "status_type": "mobile_status_update",
+            "message": "New York Life is 167 years old and still going strong. But we’re young’uns compared to some of the world’s oldest companies. The oldest is Kongo Gumi, a Japanese construction company founded in 578! One of the company’s most well-known projects was the construction of Osaka Castle in the 16th century. Talk about staying power!\n\nWe think that with age comes wisdom – do you agree?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-17T14:30:09+0000"
+        },
+        {
+            "id": "113373749451_10151052548399452",
+            "status_type": "wall_post",
+            "message": "stupid company",
+            "from": {
+                "name": "Simeon Kings",
+                "id": "775276752619032"
+            },
+            "created_time": "2012-07-16T20:09:28+0000"
+        },
+        {
+            "id": "113373749451_10151051882939452",
+            "status_type": "published_story",
+            "message": "On this day in 1969, the Apollo 11 mission to the moon lifted off from Kennedy Space Center. Astronauts Neil Armstrong and Edwin “Buzz” Aldrin made history four days later when they became the first humans to set foot on the moon. \n\nWhat small steps or giant leaps have you taken in your financial life lately?\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-16T14:30:27+0000"
+        },
+        {
+            "id": "113373749451_10151047977104452",
+            "status_type": "wall_post",
+            "message": "how come the insurance company can say what they will or will not insure you for, what is the sense in having insurance, if they can dictate what they will insure you for.",
+            "from": {
+                "name": "Josephine Longely",
+                "id": "890850757600855"
+            },
+            "created_time": "2012-07-14T19:30:51+0000"
+        },
+        {
+            "id": "113373749451_10151047954699452",
+            "status_type": "wall_post",
+            "message": "Locked in a death embrace with Limbaugh. Regrettable.",
+            "from": {
+                "name": "Kyle A Lewis-Pyuen",
+                "id": "10202788857914803"
+            },
+            "created_time": "2012-07-14T19:16:21+0000"
+        },
+        {
+            "id": "113373749451_10151045377989452",
+            "message": "Tomorrow is “le quatorze juillet” and France will be celebrating La Fête Nationale – better known as Bastille Day in English-speaking countries. Tell us, what do you enjoy the most about French culture?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-13T14:30:17+0000"
+        },
+        {
+            "id": "113373749451_10151043301209452",
+            "status_type": "published_story",
+            "message": "How long will your money last when you retire? 36% of retirees haven’t thought about this, according to a LIMRA survey. Outliving your money is more of a reality as people live longer, but there are ways you can create a steady stream of income for as long as you live. We can help you find solutions to make your retirement dreams a reality.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-12T14:46:55+0000"
+        },
+        {
+            "id": "113373749451_264665223642541",
+            "status_type": "shared_story",
+            "message": "New York Life sponsored the Hispanic Chamber of Commerce of Metro Orlando 1st annual job fair. Thanks!\n\n\nhttp://youtu.be/YHNIF9arWOM",
+            "from": {
+                "name": "Zanibel Melo",
+                "id": "10152479339764175"
+            },
+            "created_time": "2012-07-12T03:37:08+0000"
+        },
+        {
+            "id": "113373749451_10151041267454452",
+            "status_type": "published_story",
+            "message": "Anthony Hicks lost his father when he was just 12 years old — forever changing his family’s life both emotionally and financially. His story serves as a reminder of how precious life is, as well as how important it is to be prepared for the unexpected.\n\nHow do you celebrate life every day?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-11T15:48:08+0000"
+        },
+        {
+            "id": "113373749451_10151038863899452",
+            "status_type": "published_story",
+            "message": "The 66th Annual Little League Baseball World Series is in August, and for teams across the country, the countdown is on!\n\nWhat sports does your family participate in? ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-10T14:00:47+0000"
+        },
+        {
+            "id": "113373749451_10151036993014452",
+            "status_type": "added_photos",
+            "message": "It’s National Sugar Cookie Day, a perfect excuse to have a bake-off with your family!",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-09T18:09:33+0000"
+        },
+        {
+            "id": "113373749451_10151029879229452",
+            "status_type": "wall_post",
+            "message": "just got done talking with a rep.  He cannot find me on FB Well, here I am.",
+            "from": {
+                "name": "Regina Mitchell",
+                "id": "10205815646494338"
+            },
+            "created_time": "2012-07-06T21:06:12+0000"
+        },
+        {
+            "id": "113373749451_10151029515274452",
+            "status_type": "wall_post",
+            "message": "Life insurance in ghana",
+            "from": {
+                "name": "Cyril Kalepe",
+                "id": "721258794647139"
+            },
+            "created_time": "2012-07-06T17:58:52+0000"
+        },
+        {
+            "id": "113373749451_10151029097609452",
+            "status_type": "mobile_status_update",
+            "message": "George W. Bush, Sylvester Stallone and the Dalai Lama were all born today. Quite an eclectic bunch! \nWhose birthday are you celebrating this week?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-06T14:00:31+0000"
+        },
+        {
+            "id": "113373749451_10151026499549452",
+            "status_type": "wall_post",
+            "message": "Ted E. Bear Hollow is so thankful for the support of New York Life Insurance Company. A \"tip of the hat\" to you all!",
+            "from": {
+                "name": "Ted E. Bear Hollow",
+                "id": "54652442565"
+            },
+            "created_time": "2012-07-05T13:43:37+0000"
+        },
+        {
+            "id": "113373749451_10151026397899452",
+            "status_type": "wall_post",
+            "message": "John Orozco, an Olympic gymnast who grew up in the Bronx, traveled to World Cup Gymnastics in Chappaqua, NY for 10 years,  is now going to London to represent the U.S.A!!!  John and all the other Olympians going to London this year are what this country is all about. Strong, committed, healthy, determined, focused and they are all American Champions. Red, White and Blue.               Let's go U.S.A.!!!",
+            "from": {
+                "name": "World Cup Gymnastics",
+                "id": "193893305399"
+            },
+            "created_time": "2012-07-05T12:59:54+0000"
+        },
+        {
+            "id": "113373749451_10151024205054452",
+            "message": "Happy birthday America! How do you plan to spend the holiday today?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-04T15:46:35+0000"
+        },
+        {
+            "id": "113373749451_484163561597495",
+            "status_type": "shared_story",
+            "message": "INDEPENDENCE DAY is tomorrow! What have you done to secure your personal financial independence? Was that this year? Last year? Ten years ago...\n\nA recent article in “The New York Times” recommends readers get a financial tune-up once every year or so. Keep in mind, that I, as your local New York Life agent, can be one of the most valuable financial mechanics in the business.",
+            "from": {
+                "name": "Bill Mount",
+                "id": "10152342533609190"
+            },
+            "created_time": "2012-07-03T22:07:35+0000"
+        },
+        {
+            "id": "113373749451_10151022428974452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Ted E. Bear Hollow",
+                "id": "54652442565"
+            },
+            "created_time": "2012-07-03T20:28:53+0000"
+        },
+        {
+            "id": "113373749451_10151022392684452",
+            "status_type": "wall_post",
+            "message": "worst customer service ever. your people need better training. I'm glad I canceled my whole life policy. Talk about a scam.",
+            "from": {
+                "name": "Abigail Rizo Jones",
+                "id": "1015562128462358"
+            },
+            "created_time": "2012-07-03T20:11:37+0000"
+        },
+        {
+            "id": "113373749451_413023608750031",
+            "status_type": "shared_story",
+            "message": "This is worth a listen...a thorough review of the Supreme Court ruling and the impact the Affordable Care legislation will have on individuals, businesses and segments of the insurance industry. http://bit.ly/NsF36S",
+            "from": {
+                "name": "World Risk and Insurance News",
+                "id": "163449800380241"
+            },
+            "created_time": "2012-07-03T18:17:02+0000"
+        },
+        {
+            "id": "113373749451_10151021734814452",
+            "status_type": "published_story",
+            "message": "Baseball is as American as apple pie, and we’re a proud to be a partner with Little League. \n\nWhich team does your child play for? ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-03T14:28:42+0000"
+        },
+        {
+            "id": "113373749451_10151020367619452",
+            "status_type": "wall_post",
+            "message": "http://youtu.be/fSS7fuJa61U",
+            "from": {
+                "name": "Christan Zaccagnino",
+                "id": "1082662475080618"
+            },
+            "created_time": "2012-07-02T22:43:42+0000"
+        },
+        {
+            "id": "113373749451_10151019523224452",
+            "status_type": "published_story",
+            "message": "Independence Day is this week. What have you done lately to secure your personal financial independence? \n\nA recent article in “The New York Times” recommends readers get a financial tune-up once every year or so.  Keep in mind, your local New York Life agent can be one of the most valuable financial mechanics in the business. \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-07-02T15:10:03+0000"
+        },
+        {
+            "id": "113373749451_432984193409076",
+            "status_type": "shared_story",
+            "message": "http://oklahomacity.craigslist.org/pet/3099789866.html",
+            "from": {
+                "name": "Jenn Campbell",
+                "id": "764160786941847"
+            },
+            "created_time": "2012-07-01T21:23:03+0000"
+        },
+        {
+            "id": "113373749451_10151017184434452",
+            "status_type": "wall_post",
+            "message": "I want to be a friend",
+            "from": {
+                "name": "Warray Wan GH",
+                "id": "714356192040518"
+            },
+            "created_time": "2012-07-01T16:01:48+0000"
+        },
+        {
+            "id": "113373749451_490980694249747",
+            "status_type": "shared_story",
+            "message": "We're excited about your Guaranteed Future Income Annuity II being offered through Fidelity now!",
+            "from": {
+                "name": "Rachel Summit",
+                "id": "748493818507705"
+            },
+            "created_time": "2012-06-30T18:34:28+0000"
+        },
+        {
+            "id": "113373749451_10151014381644452",
+            "status_type": "wall_post",
+            "message": "question? i pay for my life insurance through payroll deduction at work when i retire can my payments be sent to my home",
+            "from": {
+                "name": "Kathleen Terlecky",
+                "id": "886810724665579"
+            },
+            "created_time": "2012-06-30T09:05:56+0000"
+        },
+        {
+            "id": "113373749451_10151012960239452",
+            "status_type": "published_story",
+            "message": "Americans everywhere are working to make the world a better place: According to the Bureau of Labor Statistics, 64.3 million people volunteered at least once between September 2010 and September 2011.  \n\nHow do you volunteer your time? \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-29T15:44:35+0000"
+        },
+        {
+            "id": "113373749451_10151012411789452",
+            "status_type": "wall_post",
+            "message": "Mmmm doughnuts...",
+            "from": {
+                "name": "Amy Heckaman Venghous",
+                "id": "10205611835841554"
+            },
+            "created_time": "2012-06-29T10:27:44+0000"
+        },
+        {
+            "id": "113373749451_358176824250716",
+            "status_type": "shared_story",
+            "message": "Please vote for my company at www.missionsmallbusiness.com My company name is High Standards Technology Inc in Houston, TX ! We have been invited to participate in a chance to receive a $250,000 grant but we need 250 votes to qualify! Please click the link and vote for me!!! Thank you!!!!!!",
+            "from": {
+                "name": "Stana Steen",
+                "id": "10205185473735266"
+            },
+            "created_time": "2012-06-28T20:54:31+0000"
+        },
+        {
+            "id": "113373749451_10151010692909452",
+            "status_type": "wall_post",
+            "message": "I had fun being the DJ for your Christmas parties!!!",
+            "from": {
+                "name": "Don Paul Fuldauer Sr.",
+                "id": "10204417135781746"
+            },
+            "created_time": "2012-06-28T15:58:09+0000"
+        },
+        {
+            "id": "113373749451_10151009654919452",
+            "status_type": "wall_post",
+            "message": "Your company won't let people who had policies for over 40 years be reinstated when 1/2 the problem was the agents in Springfield, MO  I won't recommend you any more to anyone.  ",
+            "from": {
+                "name": "Janet Randall",
+                "id": "10203456771003274"
+            },
+            "created_time": "2012-06-28T04:44:30+0000"
+        },
+        {
+            "id": "113373749451_460560240622642",
+            "status_type": "shared_story",
+            "message": "\"In the beginning of my career, the whole staff was very welcoming of my partner from day one.\"\n\nHear the rest of Suzannah's story, and learn more at http://www.newyorklife.com/lgbtcareers",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-27T18:57:18+0000"
+        },
+        {
+            "id": "113373749451_10151008705874452",
+            "from": {
+                "name": "Eaton and Berube Insurance",
+                "id": "115993221749906"
+            },
+            "created_time": "2012-06-27T18:43:05+0000"
+        },
+        {
+            "id": "113373749451_10151005846384452",
+            "status_type": "wall_post",
+            "message": "i like new york life ins.",
+            "from": {
+                "name": "Kuljit Singh",
+                "id": "590282151068467"
+            },
+            "created_time": "2012-06-26T15:35:12+0000"
+        },
+        {
+            "id": "113373749451_10151005732314452",
+            "status_type": "published_story",
+            "message": "On average, a person with a bachelor’s degree can expect to earn $2.3 million over their lifetime – at least $1 million more than if they only had a high school diploma. But a college education can be very expensive. Learn how you can help secure your child's education with life insurance.\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-26T14:30:13+0000"
+        },
+        {
+            "id": "113373749451_10151003635734452",
+            "status_type": "wall_post",
+            "message": "Your ad showed up on my FB page with a picture of one of your agents and a quote under it where he was saying \"I'm an out agent.\"  I was wondering who outed him, the company, himself or someone else?\n\nAnyway I'm glad to see you openly suport the LGBT community",
+            "from": {
+                "name": "Dave Michael",
+                "id": "739955642703438"
+            },
+            "created_time": "2012-06-25T16:33:59+0000"
+        },
+        {
+            "id": "113373749451_10151003578559452",
+            "status_type": "wall_post",
+            "message": "I have the best NYLIC Agent in the world Jach Healey!\n",
+            "from": {
+                "name": "Frieda Alvarado Macias",
+                "id": "872890032728096"
+            },
+            "created_time": "2012-06-25T16:07:50+0000"
+        },
+        {
+            "id": "113373749451_10151003329824452",
+            "status_type": "published_story",
+            "message": "Our Foundation recently announced a $238,000 grant to be given to Outward Bound. The grant will help support their wonderful Heroic Journey program – one that helps grieving teens develop coping skills and build a network of supportive peers through physical activities such as canoeing and hiking.\n\nWhat’s your favorite way to burn off stress and anxiety?\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-25T13:52:39+0000"
+        },
+        {
+            "id": "113373749451_10151002481959452",
+            "status_type": "added_video",
+            "from": {
+                "name": "Sheree N. Johnson",
+                "id": "752727132129"
+            },
+            "created_time": "2012-06-25T03:32:50+0000"
+        },
+        {
+            "id": "113373749451_371298316269299",
+            "status_type": "shared_story",
+            "message": "Congrats on the affirmation of your 'AAA' rating from Fitch! We blogged about it-",
+            "from": {
+                "name": "Rachel Summit",
+                "id": "748493818507705"
+            },
+            "created_time": "2012-06-25T02:20:36+0000"
+        },
+        {
+            "id": "113373749451_10150925243939794",
+            "status_type": "added_photos",
+            "message": "Hi from Mexico everybody. We are now in the new building",
+            "from": {
+                "name": "Fher Yebra",
+                "id": "10152531912399794"
+            },
+            "created_time": "2012-06-24T18:34:34+0000"
+        },
+        {
+            "id": "113373749451_10151000570799452",
+            "status_type": "wall_post",
+            "message": "I'm ready to be your agent in Egypt\nMarketing and sales agency?\n\naziz 00201003672172\n00201202744172\nabofatma2006@yahoo.com\n",
+            "from": {
+                "name": "Abdelaziz Kattab",
+                "id": "604925496288988"
+            },
+            "created_time": "2012-06-24T08:50:50+0000"
+        },
+        {
+            "id": "113373749451_10150997763699452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Ted E. Bear Hollow",
+                "id": "54652442565"
+            },
+            "created_time": "2012-06-22T21:18:20+0000"
+        },
+        {
+            "id": "113373749451_10150997681449452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "The Moyer Foundation",
+                "id": "107886994702"
+            },
+            "created_time": "2012-06-22T20:31:03+0000"
+        },
+        {
+            "id": "113373749451_10150997237869452",
+            "status_type": "added_photos",
+            "message": "Get your dog off the couch - it’s Take Your Dog to Work Day!\n\nMany dogs already have a job. Some assist the police and military, some work with search and rescue teams, while others help differently-abled people. Do you have a story about a working dog?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-22T16:01:36+0000"
+        },
+        {
+            "id": "113373749451_10150995159849452",
+            "status_type": "published_story",
+            "message": "Wedding season is upon us!\n\nLooking for a gift for the bride or groom? Consider life insurance! Yes, it may seem like a stretch, but helping newlyweds start their lives together with a secure financial base can be a far more valuable gift than a stack of dinner plates.\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-21T15:53:30+0000"
+        },
+        {
+            "id": "113373749451_10150993355824452",
+            "message": "If I could give my children one thing, it would be:",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-20T21:28:38+0000"
+        },
+        {
+            "id": "113373749451_428776207162937",
+            "status_type": "shared_story",
+            "message": "I'm a professional comedian in New York and I do comedy improv team building workshops with corporate groups. I am also available to emcee events. Some companies I've worked with are Bank of America, Procter & Gamble, Southwest Airlines, McGraw Hill, eBay and Macy's. I'd be happy to provide references from clients. If you want to know more about my services, I have put information below and here is a short clip of me doing a comedy improv workshop with Macy's here in New York. http://www.youtube.com/watch?v=4qMd3Kr6He8&feature=youtu.be. In addition, I will be speaking about and demonstrating my comedy improv team building workshop at two networking events given by Smart Meetings Magazine: July 19th at the Ritz Carlton in New York and September 17th at the Turnberry Isle Resort in Miami.I’d love to connect with event planners in this group. Improv truly is a perfect team building activity as the old-timers and the new people at a company. Everyone can participate. Plus, it's a lot of fun. Thanks for your help!",
+            "from": {
+                "name": "Jacqueline Kabat",
+                "id": "10151989638005563"
+            },
+            "created_time": "2012-06-20T18:13:53+0000"
+        },
+        {
+            "id": "113373749451_10150992727369452",
+            "status_type": "added_photos",
+            "message": "Summer starts today, and the sun is out! How do you plan to beat the heat?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-20T15:28:16+0000"
+        },
+        {
+            "id": "113373749451_384125558316393",
+            "status_type": "shared_story",
+            "message": "Do you have any insurance related query? \n\nAsk here http://on.fb.me/fgask & stand a chance to win exciting gifts! Hurry up! Throw in your queries now! :) via Future Generali",
+            "from": {
+                "name": "Ricky Aaron",
+                "id": "728422430612584"
+            },
+            "created_time": "2012-06-20T09:00:20+0000"
+        },
+        {
+            "id": "113373749451_10150991794924452",
+            "status_type": "wall_post",
+            "message": "Many thanks to agent Eric Lee!  He's currently assisting me with a few different lines and he's been great!  Thanks Eric!",
+            "from": {
+                "name": "John D. Russell",
+                "id": "10204621434525995"
+            },
+            "created_time": "2012-06-20T04:13:14+0000"
+        },
+        {
+            "id": "113373749451_10150990426399452",
+            "status_type": "published_story",
+            "message": "Where do you hope to be when you’re 75? Use our calculators to see if you’re on track for your financial savings.\n\nAccording to a Gallup poll, Americans aged 75 and up tend to feel better about their personal finances as they get older. Respondents were more likely to say they feel good about the amount of money they have and are satisfied with their standard of living. Another reason to celebrate aging!\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-19T14:31:19+0000"
+        },
+        {
+            "id": "113373749451_10150988470509452",
+            "status_type": "added_photos",
+            "message": "A “hotly” debated question for National Iced Tea Month: When it comes to your tea: which is healthier, green or black? \n\nFun fact:In 2010, Americans consumed more than 3 billion gallons of tea, 85% of which was iced.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-18T16:35:49+0000"
+        },
+        {
+            "id": "113373749451_10150987623494452",
+            "status_type": "wall_post",
+            "message": "u  have any branches in singapore?",
+            "from": {
+                "name": "Prakash Babu R",
+                "id": "927176850643909"
+            },
+            "created_time": "2012-06-18T06:40:01+0000"
+        },
+        {
+            "id": "113373749451_146963945439299",
+            "status_type": "shared_story",
+            "message": "A fun Father’s Day fact. Have a wonderful day, everyone!",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-17T19:29:22+0000"
+        },
+        {
+            "id": "113373749451_10150985944349452",
+            "status_type": "wall_post",
+            "message": "Happy Father's Day, Brent!",
+            "from": {
+                "name": "Carol Rich",
+                "id": "592216550890756"
+            },
+            "created_time": "2012-06-17T13:27:49+0000"
+        },
+        {
+            "id": "113373749451_10150982179094452",
+            "status_type": "wall_post",
+            "message": "New York & Life is lucky to have two great people working for them!! SH and RJ are the two that have helped this 24 yr old single mother set up herself and daughter to be prepared for the future!!! ",
+            "from": {
+                "name": "Samantha Tankersley",
+                "id": "10101317877310490"
+            },
+            "created_time": "2012-06-15T15:31:04+0000"
+        },
+        {
+            "id": "113373749451_125089464295931",
+            "status_type": "shared_story",
+            "message": "\"I am 27 years old, and I am an out agent with New York Life\"\n\nWatch James' video, and learn more at http://www.newyorklife.com/lgbtcareers",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-15T14:44:06+0000"
+        },
+        {
+            "id": "113373749451_234324563352950",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Vicki Lynne Johnson",
+                "id": "10205944364994897"
+            },
+            "created_time": "2012-06-15T03:30:34+0000"
+        },
+        {
+            "id": "113373749451_10150980889544452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Hurricane Island Outward Bound School",
+                "id": "193163997430762"
+            },
+            "created_time": "2012-06-14T23:00:01+0000"
+        },
+        {
+            "id": "113373749451_10150979900059452",
+            "status_type": "mobile_status_update",
+            "message": "Today is World Blood Donor Day. Thanks to all of you who have donated blood and saved a life. \n\nFrom acts large and small, people do incredible things for others every day. How do you — or someone you know — help others?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-14T13:04:17+0000"
+        },
+        {
+            "id": "113373749451_10150978627124452",
+            "status_type": "mobile_status_update",
+            "message": "We’re reaching the middle of the week - are you feeling stressed out? Laughter can be good medicine!\n\nWhat was the last thing that made you really laugh out loud?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-13T21:11:28+0000"
+        },
+        {
+            "id": "113373749451_3626796741317",
+            "status_type": "added_photos",
+            "message": "The NBA Finals has begun!!!  OKC up 1-0. Heats will win on Thursday!!!  Let's Go Heat!!!  Who will win the NBA finals, opinion anyone?",
+            "from": {
+                "name": "Thomas Si",
+                "id": "10203473720416432"
+            },
+            "created_time": "2012-06-13T17:12:48+0000"
+        },
+        {
+            "id": "113373749451_10150977896699452",
+            "status_type": "published_story",
+            "message": "Go green! According to researcher Harris Interactive, environmental impact is an important consideration for people when deciding which companies to do business with. We’re doing our part by offering our clients the option of e-delivery. You can sign up through our Virtual Service Center, which is available to you 24/7. \n\nWhat other “green” changes are you making in your life? \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-13T14:00:57+0000"
+        },
+        {
+            "id": "113373749451_369045959822929",
+            "status_type": "added_photos",
+            "message": "ART OF LIFE LOOKS FORWARD TO HOSTING NEW YORK LIFE, LONG BEACH's OPEN HOUSE THIS THIS THURSDAY 6/14/12 5-7pm, honoring local artist, Ron Woolhether's local city scape photography....",
+            "from": {
+                "name": "Art Of Life",
+                "id": "156176971109830"
+            },
+            "created_time": "2012-06-12T22:47:42+0000"
+        },
+        {
+            "id": "113373749451_10150976529529452",
+            "status_type": "wall_post",
+            "message": "I'm sorry to say that I am absolutely dissatisfied with your services and will more than likely be contacting the BBB.",
+            "from": {
+                "name": "Melissa Lawrence",
+                "id": "10204304343302426"
+            },
+            "created_time": "2012-06-12T20:56:49+0000"
+        },
+        {
+            "id": "113373749451_10150976155604452",
+            "status_type": "wall_post",
+            "message": "Thank you for being part of our Open House and supporting our wonderful community!",
+            "from": {
+                "name": "World Cup Gymnastics",
+                "id": "193893305399"
+            },
+            "created_time": "2012-06-12T17:35:04+0000"
+        },
+        {
+            "id": "113373749451_445099322175785",
+            "status_type": "shared_story",
+            "message": "What’s the best piece of advice you could give to a recent graduate?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-12T16:29:21+0000"
+        },
+        {
+            "id": "113373749451_243599765753477",
+            "status_type": "shared_story",
+            "message": "So glad your Austin team will be joining us at Welcome Party 2012! Thank you!! http://www.facebook.com/events/471036329590183/",
+            "from": {
+                "name": "CTX Student Life",
+                "id": "211007272249968"
+            },
+            "created_time": "2012-06-12T15:48:00+0000"
+        },
+        {
+            "id": "113373749451_10150975675114452",
+            "status_type": "wall_post",
+            "message": "Insurance as a Career\nA career in Insurance is rewarding. \nYou help people realize and fulfill their financial goals, \nmaking their lives more satisfying than ever. \nWhat's in store for you? \nA rewarding career, attractive remuneration, the freedom to be your own boss if you work as an agent, \ninfrastructure support and greater opportunities. \nIt's a win-win situation for your customers and you!",
+            "from": {
+                "name": "Ins Shiva",
+                "id": "877031162324095"
+            },
+            "created_time": "2012-06-12T12:47:44+0000"
+        },
+        {
+            "id": "113373749451_10150974468799452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "NYC Pride (The Official NYC LGBT Pride Organizer)",
+                "id": "176203198111"
+            },
+            "created_time": "2012-06-11T21:10:24+0000"
+        },
+        {
+            "id": "113373749451_10150973750809452",
+            "status_type": "added_photos",
+            "message": "Happy Birthday E.T.! Thirty years ago, this loveable extra-terrestrial pedaled his way into our lives (and hearts).\n\nWhat’s your all-time favorite family movie?\n\n(And yes, that's one of us doing an E.T. tribute)",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-11T14:51:51+0000"
+        },
+        {
+            "id": "113373749451_10150973702999452",
+            "status_type": "wall_post",
+            "message": "I am lookin for health insurance for my parents age 70 years old and green card holders.  Can you confirm who i need to contact to buy health insurance ?",
+            "from": {
+                "name": "Anu K Hollman",
+                "id": "1067115680014230"
+            },
+            "created_time": "2012-06-11T14:23:57+0000"
+        },
+        {
+            "id": "113373749451_143952669061763",
+            "status_type": "shared_story",
+            "message": "Hi ! Do you want to buy or rent an house ?\n\nNow see this site !\n\nDon´t miss !\n\nhttp://adsforrealestateinusa.com/php/?page_id=53\nSearch Results - Ads for Real Estate in USA\nadsforrealestateinusa.com",
+            "from": {
+                "name": "George Mico",
+                "id": "607478956023521"
+            },
+            "created_time": "2012-06-10T15:50:45+0000"
+        },
+        {
+            "id": "113373749451_307545516004043",
+            "status_type": "added_photos",
+            "from": {
+                "name": "Wajood Khan",
+                "id": "717594524999138"
+            },
+            "created_time": "2012-06-10T04:47:23+0000"
+        },
+        {
+            "id": "113373749451_460996140595712",
+            "status_type": "shared_story",
+            "message": "\"I've been out for the past 11 years, and am proud to say that I am a Partner here at the flagship office of New York Life.\"\n\nWatch Brian's video, and learn more at http://www.newyorklife.com/lgbtcareers",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-08T18:44:53+0000"
+        },
+        {
+            "id": "113373749451_10150967688339452",
+            "status_type": "published_story",
+            "message": "In honor of Best Friend Day, we invite you share the love! ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-08T15:29:32+0000"
+        },
+        {
+            "id": "113373749451_131497683653985",
+            "status_type": "shared_story",
+            "message": "Increase your income now! Click \"like\" us to receive our exclusive content information on commissions and product description and we'll walk you through the easy steps you will achieve an extraordinary success.",
+            "from": {
+                "name": "Catalyst Hb",
+                "id": "725229830861478"
+            },
+            "created_time": "2012-06-08T04:08:32+0000"
+        },
+        {
+            "id": "113373749451_10150966558714452",
+            "status_type": "wall_post",
+            "message": "hey hi n.y. life ins company just look  have none get new new york life insurance company  just have friends ",
+            "from": {
+                "name": "Michael D. Dickens",
+                "id": "710099422385778"
+            },
+            "created_time": "2012-06-08T00:16:18+0000"
+        },
+        {
+            "id": "113373749451_366549343405924",
+            "status_type": "added_photos",
+            "message": "Art Of Life welcomes you to the New York Life, Long Beach open house reception for City Scape Photographer, Ron Woolhether.  Lite faire & soft beverages will be served as the 5th Floor comes alive with local, vibrant city views as captured by Woolhether.  See invite for details.  Casual attire, all ages.",
+            "from": {
+                "name": "Art Of Life",
+                "id": "156176971109830"
+            },
+            "created_time": "2012-06-07T22:35:45+0000"
+        },
+        {
+            "id": "113373749451_10150963422889452",
+            "message": "What’s your most important financial priority?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-06T13:00:24+0000"
+        },
+        {
+            "id": "113373749451_10150962461684452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "The Moyer Foundation",
+                "id": "107886994702"
+            },
+            "created_time": "2012-06-05T23:08:56+0000"
+        },
+        {
+            "id": "113373749451_10150961700874452",
+            "status_type": "mobile_status_update",
+            "message": "Today is World Environment Day (WED), a day when people come together to ensure a cleaner, greener future for themselves and future generations. Organize a recycling drive, clean up a park in your local community, plant a tree — if we all take a few minutes to take positive action today, it could add up to make a big difference. \n\nHow will you celebrate?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-05T17:08:46+0000"
+        },
+        {
+            "id": "113373749451_421088441264256",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Catalyst Hb",
+                "id": "725229830861478"
+            },
+            "created_time": "2012-06-05T15:17:25+0000"
+        },
+        {
+            "id": "113373749451_10150958551344452",
+            "status_type": "published_story",
+            "message": "How do you keep things simple in your life?\n\nIf you’re looking to streamline and simplify your assets, we may have the life insurance product for you. Find out how it helped put one client’s finances back on solid ground.\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-04T13:00:32+0000"
+        },
+        {
+            "id": "113373749451_231522116959892",
+            "status_type": "shared_story",
+            "message": "Car Insurance Quotes\n\nWe’re Your Guide to Car Insurance Quotes\n\nDriving Without Car Insurance\n\nWhere to Get an Auto Insurance Quote\n\n",
+            "from": {
+                "name": "Youssef Elarraf",
+                "id": "780893341930213"
+            },
+            "created_time": "2012-06-03T11:05:10+0000"
+        },
+        {
+            "id": "113373749451_10150951486139452",
+            "status_type": "published_story",
+            "message": "A time for healing, a shoulder to lean on, and a big dose of fun: Our Foundation's Chris Park reflects on a weekend at the TAPS National Military Survivor Seminar and Good Grief Camp. ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-01T18:26:23+0000"
+        },
+        {
+            "id": "113373749451_10150950849739452",
+            "status_type": "published_story",
+            "message": "Today is the start of Gay Pride Month.  More gay men and women are starting families than ever before.  \n\nDid you know that we provide security for countless LGBT families?  ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-06-01T13:00:16+0000"
+        },
+        {
+            "id": "113373749451_300777096679251",
+            "status_type": "shared_story",
+            "message": "Consider to like our Facebook page .Thank you in advance\nYou can find us on:\nhttp://www.facebook.com/pages/CC-Venture-Group-LLC/145801048852231",
+            "from": {
+                "name": "Catalyst Hb",
+                "id": "725229830861478"
+            },
+            "created_time": "2012-06-01T06:17:52+0000"
+        },
+        {
+            "id": "113373749451_10150949389319452",
+            "message": "Today American households are less “Ozzie & Harriet” and more “Modern Family.”   According to the U.S. Census Bureau, what percentage of Americans is married? We’ll post the answer in a bit.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-05-31T20:00:42+0000"
+        },
+        {
+            "id": "113373749451_10150948849439452",
+            "status_type": "wall_post",
+            "message": "I have a small booklet (??) that says New York Life on the front. It is about  3in. by 5in. (approx) and is over a hundred years old. I cannot find out anything about it. Can ya'll or anyone else help me with info about it. I have it put away right now and can't say anything else about it until I look it up. It has a lot of ads in it and is very unique. I might have a million dollar book and not even know it....hahaha...facebook me if you have any info. Sure would appreciate it........Peggy D.",
+            "from": {
+                "name": "Peggy Driscoll",
+                "id": "506401049459751"
+            },
+            "created_time": "2012-05-31T15:50:15+0000"
+        },
+        {
+            "id": "113373749451_10150948696044452",
+            "status_type": "mobile_status_update",
+            "message": "Today is World No Tobacco Day. According to the World Health Organization (WHO), every year, lung cancer kills nearly six million people globally.\n\nAsk a friend or a family member who smokes to consider quitting.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-05-31T14:33:56+0000"
+        },
+        {
+            "id": "113373749451_228990927204160",
+            "status_type": "shared_story",
+            "message": "Consider to like our Facebook page as well. Thank you in advance\nhttp://www.facebook.com/pages/CC-Venture-Group-LLC/145801048852231",
+            "from": {
+                "name": "Catalyst Hb",
+                "id": "725229830861478"
+            },
+            "created_time": "2012-05-31T06:55:40+0000"
+        }
+    ],
+    "paging": {
+        "previous": "https://graph.facebook.com/v2.6/113373749451/feed?fields=id,status_type,message,from,created_time&limit=100&since=1342707228&__paging_token=enc_AdBLlpA9eF4ueRCSvVFabtZCXtRU9muUtT9Xn4qI1oi9sLCrZAvG6RX8JYpy0nucULcbpyckKY7zkv8EWWUCBbH6TJ5j2qHg72bQYvigsZCr1mtLwZDZD&access_token=EAACEdEose0cBAPh4K8frNV8d5unXZAGG1i7ZBbmXlqCV666s8xuOnbrcaCZBGHhR9tX80yzevU2QmZBZB66BCKiBZCgeFZBdMuKP3ocvcuhDd0hapYgW4zmCkgRdrmZAwAIEfiZBUZBjzdFrDm5lBzvrZAZAReW9LBjirlcI5nrALnZBROAZDZD&__previous=1",
+        "next": "https://graph.facebook.com/v2.6/113373749451/feed?fields=id,status_type,message,from,created_time&limit=100&since=1325376000&__paging_token=enc_AdAvNay6YNqZA0vLUtZBqJpLfqE9ZB4FECkafZAqZAPMyyOVepyQRJraOhcuKPZAm8yJYP74blOXo2LqqBk6AAgRTsK8Mf&access_token=EAACEdEose0cBAPh4K8frNV8d5unXZAGG1i7ZBbmXlqCV666s8xuOnbrcaCZBGHhR9tX80yzevU2QmZBZB66BCKiBZCgeFZBdMuKP3ocvcuhDd0hapYgW4zmCkgRdrmZAwAIEfiZBUZBjzdFrDm5lBzvrZAZAReW9LBjirlcI5nrALnZBROAZDZD&until=1338447340"
+    }
+}

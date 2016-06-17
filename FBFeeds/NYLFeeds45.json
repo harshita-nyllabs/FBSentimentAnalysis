@@ -1,0 +1,996 @@
+{
+    "data": [
+        {
+            "id": "113373749451_10150617401824452",
+            "status_type": "wall_post",
+            "message": "DO NOY BUY THIS NEW YOUR LIFE INS .FROM AARP",
+            "from": {
+                "name": "Larry Welton",
+                "id": "747937225300053"
+            },
+            "created_time": "2012-02-13T16:00:27+0000"
+        },
+        {
+            "id": "113373749451_10150617368694452",
+            "status_type": "wall_post",
+            "message": "Happy Valentine's Day,  John Svensson",
+            "from": {
+                "name": "John Svensson",
+                "id": "10203555975041745"
+            },
+            "created_time": "2012-02-13T15:55:44+0000"
+        },
+        {
+            "id": "113373749451_10150617246944452",
+            "status_type": "wall_post",
+            "message": "DO NOT BUY NEW YORK LIKE INS.FROM AARP",
+            "from": {
+                "name": "Larry Welton",
+                "id": "747937225300053"
+            },
+            "created_time": "2012-02-13T15:35:58+0000"
+        },
+        {
+            "id": "113373749451_10150608372379452",
+            "status_type": "wall_post",
+            "message": "This company is a scam. Serious people.",
+            "from": {
+                "name": "Aaron Johnsen",
+                "id": "10202206349313518"
+            },
+            "created_time": "2012-02-11T23:14:37+0000"
+        },
+        {
+            "id": "113373749451_10150602072999452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "The Moyer Foundation",
+                "id": "107886994702"
+            },
+            "created_time": "2012-02-10T20:51:28+0000"
+        },
+        {
+            "id": "113373749451_10150601020979452",
+            "from": {
+                "name": "Midtownpga",
+                "id": "125679102559"
+            },
+            "created_time": "2012-02-10T16:36:30+0000"
+        },
+        {
+            "id": "113373749451_10150600872969452",
+            "status_type": "published_story",
+            "message": "Yes, we’ve all had them: What's your Valentine’s Day horror story?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-10T16:03:10+0000"
+        },
+        {
+            "id": "113373749451_10150596824724452",
+            "status_type": "published_story",
+            "message": "Do you have questions about life insurance? \n\nYou’re not alone: Of those who haven’t purchased life insurance, 70% are still deciding whether they are going to buy. \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-09T18:59:53+0000"
+        },
+        {
+            "id": "113373749451_10150596367584452",
+            "status_type": "published_story",
+            "message": "Guess what: it's national Bagels & Lox AND Pizza Pie Day. \n\nWhich do you prefer?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-09T17:43:14+0000"
+        },
+        {
+            "id": "113373749451_10150595713769452",
+            "status_type": "published_story",
+            "message": "Words of encouragement, a hug before bed, a shoulder to lean on: Sometimes the most powerful expressions of love are intangible. The gift of financial security can be one of them - ensure that the ones you love have a future that’s safe and secure.\n\nHow do you show the special people in your life that you love them? ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-09T16:00:16+0000"
+        },
+        {
+            "id": "113373749451_384164941609448",
+            "status_type": "shared_story",
+            "message": "www.patronsaintmusic.com\nWe love NYL!!!",
+            "from": {
+                "name": "Patron Saint",
+                "id": "238619007653"
+            },
+            "created_time": "2012-02-08T19:52:24+0000"
+        },
+        {
+            "id": "113373749451_10150588818849452",
+            "status_type": "published_story",
+            "message": "What was the most treasured Valentine’s Day gift you’ve ever been given?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-08T16:00:26+0000"
+        },
+        {
+            "id": "113373749451_10150586920404452",
+            "status_type": "wall_post",
+            "message": "Do you mind if I ask why NYlife",
+            "from": {
+                "name": "Clorinda Sheridan",
+                "id": "10203717792256602"
+            },
+            "created_time": "2012-02-08T03:40:30+0000"
+        },
+        {
+            "id": "113373749451_10150586391814452",
+            "status_type": "wall_post",
+            "message": "hi new york life insurance ",
+            "from": {
+                "name": "Amy Susan Chris Edelbrock",
+                "id": "10203834784536530"
+            },
+            "created_time": "2012-02-07T23:30:57+0000"
+        },
+        {
+            "id": "113373749451_10150585823569452",
+            "status_type": "published_story",
+            "message": "According to Kelton Research, 83% of people agree that buying life insurance is a way to express love for one's family.\n\nHow do you express your love for the ones you care about?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-07T21:00:10+0000"
+        },
+        {
+            "id": "113373749451_10150585620074452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Main Line Parent",
+                "id": "135240209867625"
+            },
+            "created_time": "2012-02-07T20:14:46+0000"
+        },
+        {
+            "id": "113373749451_10150585599109452",
+            "status_type": "mobile_status_update",
+            "from": {
+                "name": "Pamela at Main Line Parent Magazine",
+                "id": "193516910711539"
+            },
+            "created_time": "2012-02-07T20:10:52+0000"
+        },
+        {
+            "id": "113373749451_10150584964229452",
+            "status_type": "published_story",
+            "message": "For those attending today's victory parade, have a great time -- and remember to be safe and secure!",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-07T18:06:20+0000"
+        },
+        {
+            "id": "113373749451_10150584746029452",
+            "status_type": "wall_post",
+            "message": "requesting to have sent to me an application form for a new grandchild to our family",
+            "from": {
+                "name": "Pat Welsch",
+                "id": "1230433856997495"
+            },
+            "created_time": "2012-02-07T17:03:30+0000"
+        },
+        {
+            "id": "113373749451_10150584515304452",
+            "message": "Would you best describe yourself as a(n):",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-07T16:00:55+0000"
+        },
+        {
+            "id": "113373749451_352655518085546",
+            "status_type": "shared_story",
+            "message": "It's BURN AWARENESS WEEK and \"TRIAL BY FIRE: Lives Re-Forged\" is a powerful NEW non-profit documentary with J.R. MARTINEZ celebrating the courage, strength and hope of burn survivors and the firefighters, doctors and nurses who save them. Get inspired ! Stay fire safe and burn aware.\nhttp://trialbyfiredoc.org/",
+            "from": {
+                "name": "Trial by Fire: Lives Re-Forged (Documentary)",
+                "id": "170102646353368"
+            },
+            "created_time": "2012-02-06T21:00:12+0000"
+        },
+        {
+            "id": "113373749451_10150582282239452",
+            "status_type": "wall_post",
+            "message": "Sofia do you still work at New York Life? I have some family members that are interested in life policies. ",
+            "from": {
+                "name": "Randall Hatch",
+                "id": "10203404571948936"
+            },
+            "created_time": "2012-02-06T19:51:13+0000"
+        },
+        {
+            "id": "113373749451_10150582149614452",
+            "status_type": "wall_post",
+            "message": "https://www.facebook.com/events/352604654750484/",
+            "from": {
+                "name": "Wael Al Hasan",
+                "id": "864549336897610"
+            },
+            "created_time": "2012-02-06T18:54:56+0000"
+        },
+        {
+            "id": "113373749451_10150580660884452",
+            "status_type": "wall_post",
+            "message": "These curls were big enough to scare the birds  .  .  .  .  .\n\nhttp://www.youtube.com/watch?v=nzYqG8gcwfQ\n",
+            "from": {
+                "name": "Ron Jackson",
+                "id": "10154608846355608"
+            },
+            "created_time": "2012-02-06T03:56:13+0000"
+        },
+        {
+            "id": "113373749451_10150579755089452",
+            "status_type": "wall_post",
+            "message": "happy birthday cuz\r\n",
+            "from": {
+                "name": "Dwight Rand",
+                "id": "10204393444057153"
+            },
+            "created_time": "2012-02-05T20:04:21+0000"
+        },
+        {
+            "id": "113373749451_10150579730574452",
+            "status_type": "wall_post",
+            "message": "Love my fav sis other halfy bff pnc and my WIFE <3",
+            "from": {
+                "name": "Jamal Shakur",
+                "id": "10204158961712527"
+            },
+            "created_time": "2012-02-05T19:54:30+0000"
+        },
+        {
+            "id": "113373749451_323984230973355",
+            "status_type": "shared_story",
+            "message": "Which team do you think will do a better job protecting its QB tonight: New England or New York?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-05T16:46:07+0000"
+        },
+        {
+            "id": "113373749451_10150577736039452",
+            "status_type": "wall_post",
+            "message": "i was 21 when i had insurance and a savings account.it turned out to be a scam",
+            "from": {
+                "name": "Kevin O'sullivan",
+                "id": "10200890963475084"
+            },
+            "created_time": "2012-02-04T23:05:37+0000"
+        },
+        {
+            "id": "113373749451_10150576845294452",
+            "status_type": "wall_post",
+            "message": "SACS - Silent Angel Child Saviors is having a fund raiser all year to raise money to help Educate people on Child Abuse Awareness, and Post more” Neighborhood Watch for Child Abuse” signs in our neighborhoods. \nAny Help would be deeply appreciated!\n We are a 501C3 non-profit org. All charitable donations are tax deductible.\n Contact information: Loraine Brady – 870-664-0528\n SACS P.O. Box 268 Oil Trough, Ark.72564\n Email: lorainebrady@ymail.com",
+            "from": {
+                "name": "Loraine Brady",
+                "id": "1346287282052770"
+            },
+            "created_time": "2012-02-04T16:21:57+0000"
+        },
+        {
+            "id": "113373749451_10150576809799452",
+            "message": "What's your favorite game-day food?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-04T16:05:09+0000"
+        },
+        {
+            "id": "113373749451_10150576251809452",
+            "status_type": "wall_post",
+            "message": "i am intereted to join in the new york life insurance company",
+            "from": {
+                "name": "Vijay Selvan A P",
+                "id": "712067435556385"
+            },
+            "created_time": "2012-02-04T10:28:54+0000"
+        },
+        {
+            "id": "113373749451_10150576118419452",
+            "status_type": "wall_post",
+            "message": "Westpoint Insurance is offering competitive rates for sports teams, leagues and associations and can insure your next Special Event.  Agents are welcome! Contact them by calling toll-free (800) 318.7709, email sales@westpointinsurance.com or visit the website www.westpointinsurance.com!",
+            "from": {
+                "name": "Terri Tomasik",
+                "id": "10152361705429738"
+            },
+            "created_time": "2012-02-04T08:52:50+0000"
+        },
+        {
+            "id": "113373749451_10150576088659452",
+            "status_type": "wall_post",
+            "message": "https://www.facebook.com/events/352604654750484/",
+            "from": {
+                "name": "Wael Al Hasan",
+                "id": "864549336897610"
+            },
+            "created_time": "2012-02-04T08:26:50+0000"
+        },
+        {
+            "id": "113373749451_317433261626628",
+            "status_type": "shared_story",
+            "message": "Which team did a better job protecting its QB this year: New England or New York? Find out by checking the New York Life Protection Index.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-03T18:13:31+0000"
+        },
+        {
+            "id": "113373749451_234561909963403",
+            "status_type": "shared_story",
+            "message": "Facebook says that it has 845 million active users, 50% of whom log in on any given day. The average user has 130 friends. \n\nHow about you? Do you check it daily, weekly, or several times a day? Do you mostly use it to communicate with friends, or to keep in touch family?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-02T23:57:13+0000"
+        },
+        {
+            "id": "113373749451_10150572837529452",
+            "status_type": "wall_post",
+            "message": "THIS IS THE FORCE'S OF LOVE & TRUTH FROM HEAVEN : FACT",
+            "from": {
+                "name": "Johnny Tackman",
+                "id": "486116704846446"
+            },
+            "created_time": "2012-02-02T23:54:20+0000"
+        },
+        {
+            "id": "113373749451_10150572555249452",
+            "status_type": "wall_post",
+            "message": "http://www.manwithvanhire.com",
+            "from": {
+                "name": "Wasim Ahmed",
+                "id": "10151981095746899"
+            },
+            "created_time": "2012-02-02T21:40:17+0000"
+        },
+        {
+            "id": "113373749451_10150571924594452",
+            "status_type": "wall_post",
+            "message": "Social Security says I'm Disabled...Why is NY Life giving me such a hard time getting my disability waiver (that I paid premiums on for over 30 years) processed. It took 12 days to get the claim forms mailed to me (other mail from NY life comes in 3-4 days)... then upon return...my authorization for was \"lost\" (which I had to call them to find out about) and... they're saying I was mailed new forms on 1/25 ...here it is 2/2 and still not her ...Additionally, on my initial call I was told my Social Security Awards Letter would circumvent all the extra paperwork...now they're making me do all that too... all appearances are they are dragging their feet hoping I won't have the money to pay the premium which would nullify the waiver... I am disabled AND shown them proof....why all the extra crap for their customer of 30+ years??? ",
+            "from": {
+                "name": "Walt Huston",
+                "id": "10204605301314337"
+            },
+            "created_time": "2012-02-02T16:54:39+0000"
+        },
+        {
+            "id": "113373749451_10150571677569452",
+            "status_type": "published_story",
+            "message": "Don't be scared of your own shadow. Schedule an annual review with your agent to get on track for 2012. #GroundhogDay\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-02T15:21:08+0000"
+        },
+        {
+            "id": "113373749451_10150570916899452",
+            "status_type": "wall_post",
+            "message": "These curls were big enough to scare the birds  .  .  .  .  .\n\nhttp://www.youtube.com/watch?v=nzYqG8gcwfQ\n",
+            "from": {
+                "name": "Ron Jackson",
+                "id": "10154608846355608"
+            },
+            "created_time": "2012-02-02T07:10:04+0000"
+        },
+        {
+            "id": "113373749451_10150570831364452",
+            "status_type": "wall_post",
+            "message": "keith like it to",
+            "from": {
+                "name": "Keith Wright",
+                "id": "685965544851606"
+            },
+            "created_time": "2012-02-02T05:53:35+0000"
+        },
+        {
+            "id": "113373749451_10150569537739452",
+            "status_type": "published_story",
+            "message": "“Can’t buy me love…” Sometimes the most powerful expressions of love are the ones that are intangible. The gift of a future that’s safe and secure can be one of them.\n\nWhat intangible gift is the most special to you?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-02-01T18:36:58+0000"
+        },
+        {
+            "id": "113373749451_10150569132674452",
+            "status_type": "wall_post",
+            "message": "http://youtu.be/VgzupGdf4hI",
+            "from": {
+                "name": "Ronnie Bops",
+                "id": "10203447880744403"
+            },
+            "created_time": "2012-02-01T15:35:15+0000"
+        },
+        {
+            "id": "113373749451_10150568905479452",
+            "status_type": "wall_post",
+            "message": "What are you doing on Friday? I will be at Frank McKinney's Survival to Thrival Tour. He is going around the country donating money to homeless shelters and will be in Indianapolis on Friday, February 3rd. http://frank-mckinney.com/tour_schedule.aspx He will be at the Horizon House Shelter at 1033 E Washington Street from 11 AM to 2 PM. See you there!!! Frank will donate $25 for each attendee to the shelter...if you can't come you can donate online at the link. Help the Homeless!!!!",
+            "from": {
+                "name": "Lucy Brenton",
+                "id": "10202897011419023"
+            },
+            "created_time": "2012-02-01T13:44:04+0000"
+        },
+        {
+            "id": "113373749451_261585570579189",
+            "status_type": "shared_story",
+            "message": "Thank you so much for your support of our Main Line Early Childhood Education Fair!",
+            "from": {
+                "name": "Main Line Parent",
+                "id": "135240209867625"
+            },
+            "created_time": "2012-02-01T12:50:17+0000"
+        },
+        {
+            "id": "113373749451_10150567910874452",
+            "status_type": "wall_post",
+            "message": "I must say, your marketing team sure knows how to do their jobs! The commercials always make me tear up. Very touching, and certainly would like to see what your company has to offer in terms of policies. ",
+            "from": {
+                "name": "Kristin Nicole Battaglia",
+                "id": "10204942945668347"
+            },
+            "created_time": "2012-02-01T02:23:20+0000"
+        },
+        {
+            "id": "113373749451_10150566847579452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "The Moyer Foundation",
+                "id": "107886994702"
+            },
+            "created_time": "2012-01-31T18:26:02+0000"
+        },
+        {
+            "id": "113373749451_10150566643059452",
+            "status_type": "published_story",
+            "message": "Are you taking charge of your health? Tell us how.\n\nAccording to this article, patients who were more involved in their health were less likely to smoke, be obese, get hospitalized or go to the emergency room than those who were less engaged. \n\n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-31T16:58:48+0000"
+        },
+        {
+            "id": "113373749451_10150566198149452",
+            "status_type": "wall_post",
+            "message": "need some life insurance -how would i get into contact with an agent near me?\r\n",
+            "from": {
+                "name": "Steve Kline",
+                "id": "1205592346120698"
+            },
+            "created_time": "2012-01-31T13:28:26+0000"
+        },
+        {
+            "id": "113373749451_10150565105884452",
+            "status_type": "wall_post",
+            "message": "If I require a surrender of my policy for a variable life annuity/non Erisa policy, on the employer or plan adminstrator portion of the form, can I write \"no longer employed with plan administraor\"\n",
+            "from": {
+                "name": "Julie Vander Wende Roscoe",
+                "id": "10205830163741631"
+            },
+            "created_time": "2012-01-31T01:31:16+0000"
+        },
+        {
+            "id": "113373749451_10150564938189452",
+            "status_type": "wall_post",
+            "message": "i live i pad\r\n",
+            "from": {
+                "name": "Hailey Bellafiore",
+                "id": "860517610673140"
+            },
+            "created_time": "2012-01-31T00:03:42+0000"
+        },
+        {
+            "id": "113373749451_351133101577337",
+            "status_type": "shared_story",
+            "message": "A recent AARP survey found that 40% of Boomers plan to work “until they drop.” \n\nDoes this sound like your reality? When do you plan to retire, and what steps are you taking to meet that goal?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-30T23:24:28+0000"
+        },
+        {
+            "id": "113373749451_331021710275082",
+            "status_type": "shared_story",
+            "message": "Retro Ad: \"The Company You Keep\" and \"All the News That's Fit to Print\" - still going strong.",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-30T16:36:35+0000"
+        },
+        {
+            "id": "113373749451_10150562622544452",
+            "status_type": "wall_post",
+            "message": "Excelente empresa y un orgullo ser parte de ellos !",
+            "from": {
+                "name": "Edwin Potz ZanNav",
+                "id": "10205176735794472"
+            },
+            "created_time": "2012-01-30T06:05:28+0000"
+        },
+        {
+            "id": "113373749451_10150561352364452",
+            "status_type": "wall_post",
+            "message": "I was so impressed by NYL when my husband passed away, after I notified them I had a check delivered 10 days later.  I was also  impressed by the woman I talked to on the phone.  Thank you, New York Life!",
+            "from": {
+                "name": "Carol Harris",
+                "id": "636671243108439"
+            },
+            "created_time": "2012-01-29T18:42:16+0000"
+        },
+        {
+            "id": "113373749451_10150561289504452",
+            "status_type": "wall_post",
+            "message": "bina i saw your message on LinkedIn hey how r u, i am also with insurance.",
+            "from": {
+                "name": "Joyotsna Dadlani",
+                "id": "760786033958380"
+            },
+            "created_time": "2012-01-29T18:13:29+0000"
+        },
+        {
+            "id": "113373749451_10150558990249452",
+            "status_type": "wall_post",
+            "message": "Cristian gonzalez",
+            "from": {
+                "name": "Irasema Duchene",
+                "id": "10152921569728945"
+            },
+            "created_time": "2012-01-28T19:01:15+0000"
+        },
+        {
+            "id": "113373749451_10150558985569452",
+            "status_type": "wall_post",
+            "message": "Christrian gonzalez",
+            "from": {
+                "name": "Irasema Duchene",
+                "id": "10152921569728945"
+            },
+            "created_time": "2012-01-28T18:59:00+0000"
+        },
+        {
+            "id": "113373749451_10150557393249452",
+            "status_type": "wall_post",
+            "message": "Shout out to Colonel Arthur Lemial Atchison (long time NYL Agent). You were a good man. Thank you for helping my mother when we were small. I'm glad I could be with you and thank you at the end. God bless you and I know you are in Heaven.",
+            "from": {
+                "name": "Bryan Garten",
+                "id": "10204367514520644"
+            },
+            "created_time": "2012-01-28T03:40:06+0000"
+        },
+        {
+            "id": "113373749451_10150556471324452",
+            "status_type": "wall_post",
+            "message": "Never been more disappointed in one place n my entire life the past THREE YEARS I have not received my payments as scheduled always 1-3 weeks late this is unacceptable and very pathetic! ",
+            "from": {
+                "name": "Josh Gardner",
+                "id": "10155767312015237"
+            },
+            "created_time": "2012-01-27T19:18:49+0000"
+        },
+        {
+            "id": "113373749451_10150556290039452",
+            "status_type": "added_photos",
+            "message": "What are you looking forward to most this weekend?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-27T17:55:30+0000"
+        },
+        {
+            "id": "113373749451_10150553976989452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "The Maryland Hispanic Chamber of Commerce",
+                "id": "280814536900"
+            },
+            "created_time": "2012-01-26T19:38:19+0000"
+        },
+        {
+            "id": "113373749451_370252806323906",
+            "status_type": "shared_story",
+            "message": "Did you have any significant life changes in 2011? \n\nFor many of us, every year brings new changes: buying or selling a house, having a new addition in the family, landing that dream job. It might be a good time to have an annual review with your agent. \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-26T18:29:31+0000"
+        },
+        {
+            "id": "113373749451_10150553305359452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "Diversity Journal",
+                "id": "145107528880923"
+            },
+            "created_time": "2012-01-26T14:35:23+0000"
+        },
+        {
+            "id": "113373749451_10150552950629452",
+            "status_type": "wall_post",
+            "message": "really want to be part of company!",
+            "from": {
+                "name": "Derrick Cunningham",
+                "id": "836603866360304"
+            },
+            "created_time": "2012-01-26T10:55:57+0000"
+        },
+        {
+            "id": "113373749451_10150551992049452",
+            "status_type": "wall_post",
+            "message": "Getting my finances back in order.",
+            "from": {
+                "name": "Theresa Lannon",
+                "id": "893681420655842"
+            },
+            "created_time": "2012-01-25T23:20:51+0000"
+        },
+        {
+            "id": "113373749451_10150551948664452",
+            "status_type": "added_photos",
+            "message": "Thinking back over the past year, what accomplishment are you most proud of?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-25T22:59:37+0000"
+        },
+        {
+            "id": "113373749451_10150551023479452",
+            "status_type": "wall_post",
+            "message": "Happy Birthday Robyn. Enjoy your day!",
+            "from": {
+                "name": "Marguerite Gindert Virgintino",
+                "id": "765144103570514"
+            },
+            "created_time": "2012-01-25T16:03:44+0000"
+        },
+        {
+            "id": "113373749451_138051189646887",
+            "status_type": "shared_story",
+            "message": "If you’re finding it difficult to save money for your future, you’re not alone. Recent research shows about half of American workers have less than $10,000 saved for retirement. \n\nWhat steps can you take now to save money? \n",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-24T22:17:26+0000"
+        },
+        {
+            "id": "113373749451_10150547175199452",
+            "status_type": "wall_post",
+            "message": "I have asked 6 times to be off your mailing list. What else do I need to do. I don't want to hear from you again. Get It!",
+            "from": {
+                "name": "Cheryl Schermerhorn Petti",
+                "id": "10202279852300978"
+            },
+            "created_time": "2012-01-24T01:01:09+0000"
+        },
+        {
+            "id": "113373749451_10150546868224452",
+            "message": "What’s your biggest concern in the coming year?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-23T22:20:28+0000"
+        },
+        {
+            "id": "113373749451_10150546413669452",
+            "status_type": "wall_post",
+            "message": "help children? you embezzling fucks. id love to see a 3rd world child in need testify that you corporate fucks actually helped them.",
+            "from": {
+                "name": "Chris Rockman",
+                "id": "877044935648754"
+            },
+            "created_time": "2012-01-23T19:19:02+0000"
+        },
+        {
+            "id": "113373749451_10150546099534452",
+            "status_type": "wall_post",
+            "message": "Greetings from our offices in Guadalajara, Mexico!!! ",
+            "from": {
+                "name": "Pedro Robles",
+                "id": "10152648454145420"
+            },
+            "created_time": "2012-01-23T17:04:04+0000"
+        },
+        {
+            "id": "113373749451_10150546096764452",
+            "status_type": "added_photos",
+            "message": "Happy Monday, everyone. Many parts of New York saw their first substantial snow fall of the year (if you call 4-5\" substantial!). \r\n\r\nHow's the weather in your neck of the woods?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-23T17:02:35+0000"
+        },
+        {
+            "id": "113373749451_10150545736719452",
+            "status_type": "wall_post",
+            "message": "http://www.nycfitnessonline.com/Services.html",
+            "from": {
+                "name": "Johanna Salce",
+                "id": "10155688725350054"
+            },
+            "created_time": "2012-01-23T14:14:20+0000"
+        },
+        {
+            "id": "113373749451_10150544506639452",
+            "status_type": "wall_post",
+            "message": "Hello ! Brothers and Sisters, This is your Brother Thermon Williams,Founder of the national Association of Alumni's Plus,a dream inspired by my cousin Cennie Williams ,Founder of the National Black Social Workers ,This is the purpose of the association,there are over 4million black men incarcerated,prisons have become a new form of genocide and marketing,the economy is getting worst and our youth are falling short with trappings of drugs,Second we have come a long way as owners of various business and we need a support system to help net work,our business in every aspect,So I reach out to all groups  and individuals to associate your drives with the association of support( tnaap).The TNAAP is taking on its first assignment,DR Thomas Fisher,who as a young got caught up in the drug movement and has been incarcerated for over thirty years ,DR.Thomas Fisher has written six books ,earned his PHD,founder of the aids awareness inside as well as his family carrying on his work with the aids drive fund for victims economically unable to get the medical assistance,This once was young has made a trimendous change manifested by his accomplishments as it is only right that he has a chance for at least parole,this is a travesty of justice.We are trying to reach a 10000 mark it is at the 1000,each one teach one ,request for pardon of Dr Thomas Fisher at WWW.WhiteHouse.Gov,in addition ther is another site call partition all helps lets gets with the power of unification.So I ASK ALL JOIN.\n\nMuch Regards,",
+            "from": {
+                "name": "Thermon Williams",
+                "id": "785040134918901"
+            },
+            "created_time": "2012-01-23T00:23:37+0000"
+        },
+        {
+            "id": "113373749451_10150544427529452",
+            "status_type": "wall_post",
+            "message": "ITS A BLESSING\n",
+            "from": {
+                "name": "Anthony McKay",
+                "id": "896067593761470"
+            },
+            "created_time": "2012-01-22T23:38:41+0000"
+        },
+        {
+            "id": "113373749451_10150543909704452",
+            "status_type": "wall_post",
+            "message": "Insurance is legal extortion, gtfo\n",
+            "from": {
+                "name": "Pott Sconsolle",
+                "id": "900968286588417"
+            },
+            "created_time": "2012-01-22T20:49:43+0000"
+        },
+        {
+            "id": "113373749451_346391112045585",
+            "status_type": "shared_story",
+            "message": "Rudy Haynes\n\"Write a Letter Thursdays\n\nIn light of all of our young people doing so much texting I thought it might be a great idea to help them by starting them writing again. This way they can spell out all the words and improve their Grammar and Vocabulary skills!!!! In some states some of our kids coming out of High School can't even read!!!!\n\nLet's challenge them to write a Letter every Thursday to some one of their choice!!!!! It could be our Troops, are some one in Prison, of a relative in another state!!!!! Let them pick whom they would like to write to!!!!! Let them pick a subject they know about to write about!!!! If it's a subject they know it would be easier for them to do it!!!! We could choose an Elderly Home and have some young people to send them post cards!!!!\n\nI remember when I was in the Navy and overseas how I felt when we had mail call and they called my name to get that letter from whom ever!!!! What a felling that was!!!!!!!!\n\nI believe this would help us too by improving our children's literary skills!!!! This is a Win- Win situation for us all!!!!!!!!!\n\nIf you like this idea Please pass it on to anyone who will listen!!!!!!!! Let me know what you think???? Post it everywhere and remember to........\n\nWRITE A LETTER THURSDAYS!!\n\n\nyou can hear Uncle Rudy Mon. - Fri. on     www.stlouisflo.com     from 12:00 noon - 4:00 p.m.  central time",
+            "from": {
+                "name": "Rudy Haynes",
+                "id": "10152873640113901"
+            },
+            "created_time": "2012-01-22T15:35:09+0000"
+        },
+        {
+            "id": "113373749451_10150541405469452",
+            "status_type": "wall_post",
+            "message": "I like to pick an insurance company that is about the 3rd in size...that way I figure they are incompetent or pay their claims.  What size are you? ",
+            "from": {
+                "name": "Sean Defeudis",
+                "id": "10201965392597118"
+            },
+            "created_time": "2012-01-21T20:31:23+0000"
+        },
+        {
+            "id": "113373749451_10150541400959452",
+            "status_type": "wall_post",
+            "message": "If money is God then prostitutes must know him better. ",
+            "from": {
+                "name": "Sean Defeudis",
+                "id": "10201965392597118"
+            },
+            "created_time": "2012-01-21T20:29:08+0000"
+        },
+        {
+            "id": "113373749451_10150540560184452",
+            "status_type": "wall_post",
+            "message": "Preferred Industry - Insurance, Banking, Pharmaceuticals, Automobile, Telecom\nEducation :- Graduate\nSales Experience:- 1 year\nDesignation:- Unit Manager\nMin Stay in same city :- 2 years from date of hire\nCTC :- 2 Lacs\n\nEducation :-  HSC\nSales Experience:- 2 years \nDesignation:- Unit Manager\nMin Stay in same city :- 2 years from date of hire\nCTC :- 1.7 Lacs\n\nEducation :- Fresh Graduate\nSales Experience:-Nil\nDesignation:- Unit Manager\nMin Stay in same city :- 2 years from date of hire\nCTC :- 1.7 Lacs\n\nEducation :- Pinnacle Qualifier (External Advisor)\nSales Experience:- ------\nDesignation:- Unit Manager\nMin Stay in same city :- 2 years from date of hire\nCTC :- 1.75 lacs\n\nEducation :- Graduate\nSales Experience:- 2 years\nDesignation:- Development Manager\nMin Stay in same city :- 2 years from date of hire\nCTC :- 2.50 Lacs\n\nEducation :- Graduate\nSales Experience:- 4yrs and above\nDesignation:- SAM\nMin Stay in same city :- 2 years from date of hire\nCTC :- 3.30 Lacs\n\nEducation :- Graduate\nSales Experience:- 5 yrs and above\nDesignation:- ABM\nMin Stay in same city :- 2 years from date of hire\nCTC :- 4.40 Lacs\n\nSend me resume for this deepak.baheti@techontrack.com\nContact No :- 91-99811-77099",
+            "from": {
+                "name": "Deepak Baheti",
+                "id": "1174555855893531"
+            },
+            "created_time": "2012-01-21T13:25:25+0000"
+        },
+        {
+            "id": "113373749451_10150539066559452",
+            "status_type": "wall_post",
+            "message": "Happy 1st birthday Madison ! My little girl:(",
+            "from": {
+                "name": "Jennifer Davidson",
+                "id": "805134289568794"
+            },
+            "created_time": "2012-01-20T22:09:35+0000"
+        },
+        {
+            "id": "113373749451_10150538999529452",
+            "status_type": "mobile_status_update",
+            "message": "Fill in the blank: \"In the next month, I am looking forward to _____.\"",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-20T21:37:57+0000"
+        },
+        {
+            "id": "113373749451_10150536539454452",
+            "status_type": "shared_story",
+            "from": {
+                "name": "MainStay Investments & New York Life Annuities",
+                "id": "195630873823391"
+            },
+            "created_time": "2012-01-19T21:12:45+0000"
+        },
+        {
+            "id": "113373749451_310048255699468",
+            "status_type": "shared_story",
+            "message": "New year – fresh start: Did you have any significant life changes in 2011? ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-19T18:48:31+0000"
+        },
+        {
+            "id": "113373749451_10150535947434452",
+            "status_type": "wall_post",
+            "message": "You were my first job out of high school in 1968,I worked inDeatBenefits dept. I worked in Manhattan Great Place to work. We had to type everything no computers :-) \n",
+            "from": {
+                "name": "Margaret Murphy Laskowski",
+                "id": "10202106659181068"
+            },
+            "created_time": "2012-01-19T16:30:59+0000"
+        },
+        {
+            "id": "113373749451_10150535931734452",
+            "status_type": "wall_post",
+            "message": "به نطر شما اقا سگه چکار میکنه ؟",
+            "from": {
+                "name": "Hajar Farzin",
+                "id": "802236389897285"
+            },
+            "created_time": "2012-01-19T16:23:28+0000"
+        },
+        {
+            "id": "113373749451_10150534484854452",
+            "status_type": "added_photos",
+            "message": "Where would you hide a treasure if you had one?",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-18T22:46:25+0000"
+        },
+        {
+            "id": "113373749451_10150534311439452",
+            "status_type": "wall_post",
+            "message": "i saw that u asked what we care about most family, or health.. i choose health because if im not healthy i can not take care of my family :D",
+            "from": {
+                "name": "Kat Johnson",
+                "id": "574426705990668"
+            },
+            "created_time": "2012-01-18T21:16:18+0000"
+        },
+        {
+            "id": "113373749451_10150534047009452",
+            "status_type": "wall_post",
+            "message": "Regarding this article - http://www.newyorklife.com/nyl/v/index.jsp?contentId=148158&vgnextoid=72c5ce00da3d4310VgnVCM100000ac841cacRCRD - does NY Life assist with debt consolidation?",
+            "from": {
+                "name": "Stephanie Warren",
+                "id": "10152638170794317"
+            },
+            "created_time": "2012-01-18T18:58:10+0000"
+        },
+        {
+            "id": "113373749451_10150533660554452",
+            "status_type": "wall_post",
+            "message": "I LOVE NEW YORK",
+            "from": {
+                "name": "Ali Doost",
+                "id": "839902672796875"
+            },
+            "created_time": "2012-01-18T15:31:07+0000"
+        },
+        {
+            "id": "113373749451_10150533445104452",
+            "status_type": "wall_post",
+            "message": "hi",
+            "from": {
+                "name": "Dhruv Kumar",
+                "id": "1120275341362235"
+            },
+            "created_time": "2012-01-18T13:22:47+0000"
+        },
+        {
+            "id": "113373749451_342636832428182",
+            "status_type": "shared_story",
+            "message": "Interesting statistic: 25% of participants in a recent study said they will need to work until at least age 80 to live comfortably in retirement. \n\nBased on your situation, do you agree or disagree with this statement? ",
+            "from": {
+                "name": "New York Life Insurance Company",
+                "id": "113373749451"
+            },
+            "created_time": "2012-01-17T20:24:46+0000"
+        },
+        {
+            "id": "113373749451_10150531328109452",
+            "status_type": "wall_post",
+            "message": "I have been an agent for 30 years and still have a passion for what I do!",
+            "from": {
+                "name": "Tema Lurie Steele",
+                "id": "939956232721653"
+            },
+            "created_time": "2012-01-17T14:02:05+0000"
+        },
+        {
+            "id": "113373749451_210274385734286",
+            "status_type": "shared_story",
+            "message": "Call center services are one of the most sought after services in today’s competitive business world. Whether you need to set up a customer support center or market your product through telemarketing services, you would need professional call center services. http://bit.ly/wm9FDd   Get in touch.  For more recent updates, you can \"like\" us on Facebook http://www.facebook.com/pages/FWS-Call-Center/171215542972094\t\t\n",
+            "from": {
+                "name": "FWS Call Center",
+                "id": "171215542972094"
+            },
+            "created_time": "2012-01-17T12:08:49+0000"
+        },
+        {
+            "id": "113373749451_364400656908903",
+            "status_type": "shared_story",
+            "message": "Today there are many insurance companies that provide best insurance deals for insurance seekers. In this cutthroat competition every insurers tries to give the best insurance plan. But choosing from these insurance plans is really confusing and this is where https://www.policybazaar.com helps you. We have tie up with almost all major insurers in India. We try to find that a person chooses the insurance after comparison to get the best insurance that suits their needs.",
+            "from": {
+                "name": "Mac Tyagi",
+                "id": "10202845126003212"
+            },
+            "created_time": "2012-01-17T11:10:29+0000"
+        },
+        {
+            "id": "113373749451_10150531067849452",
+            "status_type": "wall_post",
+            "message": "May I pay my premium online? Thanks.",
+            "from": {
+                "name": "Ethel Fortuno",
+                "id": "1001317873212707"
+            },
+            "created_time": "2012-01-17T10:45:12+0000"
+        },
+        {
+            "id": "113373749451_10150530385354452",
+            "status_type": "wall_post",
+            "message": "Lovin life as New york Life Rep",
+            "from": {
+                "name": "Josh Kumar",
+                "id": "891218640988296"
+            },
+            "created_time": "2012-01-17T01:41:37+0000"
+        },
+        {
+            "id": "113373749451_10150530067284452",
+            "status_type": "wall_post",
+            "message": "Sweet! I just got 724 facebook credits! And it worked too! No personal info required 100% working and totally free! Chechk it out, i got mine from http.//shat.es/HTTGg/",
+            "from": {
+                "name": "Adam Tomelden",
+                "id": "806730166075750"
+            },
+            "created_time": "2012-01-16T22:23:23+0000"
+        }
+    ],
+    "paging": {
+        "previous": "https://graph.facebook.com/v2.6/113373749451/feed?fields=id,status_type,message,from,created_time&limit=100&since=1329148827&__paging_token=enc_AdBjtZAkiiprlHLz4MQMH4adLNYf51ZCAOdFMLpgKnPHbAulVmX5zum2Px5x6VsxrtKjxnBV1AmK3oUGV8Vv3IfnJ4VY9NpzZA4ZA6IuxQAWcu7GXQZDZD&access_token=EAACEdEose0cBAPh4K8frNV8d5unXZAGG1i7ZBbmXlqCV666s8xuOnbrcaCZBGHhR9tX80yzevU2QmZBZB66BCKiBZCgeFZBdMuKP3ocvcuhDd0hapYgW4zmCkgRdrmZAwAIEfiZBUZBjzdFrDm5lBzvrZAZAReW9LBjirlcI5nrALnZBROAZDZD&__previous=1",
+        "next": "https://graph.facebook.com/v2.6/113373749451/feed?fields=id,status_type,message,from,created_time&limit=100&since=1325376000&__paging_token=enc_AdCHWbH6pZCQwHFAbjYZCQsNF7wZCYz1RbpkbkuiaUxbJZBW1mF9cDm1GKPUtoEuy8SfhaWwmYUWRPOVgPh7r7EULIkrODB09FNWCTwZCZCUA75CkNyQZDZD&access_token=EAACEdEose0cBAPh4K8frNV8d5unXZAGG1i7ZBbmXlqCV666s8xuOnbrcaCZBGHhR9tX80yzevU2QmZBZB66BCKiBZCgeFZBdMuKP3ocvcuhDd0hapYgW4zmCkgRdrmZAwAIEfiZBUZBjzdFrDm5lBzvrZAZAReW9LBjirlcI5nrALnZBROAZDZD&until=1326752603"
+    }
+}
